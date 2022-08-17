@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UMusic</string>
+    <string name="currentPosition">currentPosition</string>
+</resources>
